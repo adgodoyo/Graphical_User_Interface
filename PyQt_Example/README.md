@@ -44,9 +44,6 @@ This project is licensed under the MIT License.
 ### Descripción
 RocketGui es una aplicación de escritorio basada en PyQt5. Proporciona opciones de inicio de sesión, registro y menús específicos de usuario. La aplicación incluye integración con Firebase para autenticación y almacenamiento de datos, lo que permite la gestión de usuarios y el acceso seguro a recursos.
 
-### Vista Previa de la Interfaz
-![Interfaz de RocketGui](Front.png)
-
 ### Requisitos
 Para ejecutar este proyecto, necesitas los siguientes paquetes de Python:
 - PyQt5
